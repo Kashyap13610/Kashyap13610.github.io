@@ -27,13 +27,27 @@
             "/": "/*"
           }
         ]
+      },
+      {
+        "appIDs": [
+          "LYTQ3DGC2U.com.example.demoExFlutterLink"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
       }
     ]
   },
   "webcredentials": {
     "apps": [
       "LYTQ3DGC2U.com.example.calgaryHostApp",
-      "LYTQ3DGC2U.com.example.uni_link_ios"
+      "LYTQ3DGC2U.com.example.uni_link_ios",
+      "LYTQ3DGC2U.com.example.demoExFlutterLink",
     ]
   }
 }
