@@ -7,7 +7,20 @@
           "LYTQ3DGC2U.com.example.calgaryHostApp"
         ],
         "paths": [
-          "/details/*"
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "LYTQ3DGC2U.com.example.uni_link_ios"
+        ],
+        "paths": [
+          "*"
         ],
         "components": [
           {
@@ -19,7 +32,8 @@
   },
   "webcredentials": {
     "apps": [
-      "LYTQ3DGC2U.com.example.calgaryHostApp"
+      "LYTQ3DGC2U.com.example.calgaryHostApp",
+      "LYTQ3DGC2U.com.example.uni_link_ios"
     ]
   }
 }
