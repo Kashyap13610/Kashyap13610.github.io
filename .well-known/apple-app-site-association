@@ -1,53 +1,11 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appIDs": [
-          "LYTQ3DGC2U.com.example.calgaryHostApp"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
-      },
-      {
-        "appIDs": [
-          "LYTQ3DGC2U.com.example.uni_link_ios"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
-      },
-      {
-        "appIDs": [
-          "LYTQ3DGC2U.com.example.demoExFlutterLink"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
-      }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "LYTQ3DGC2U.com.example.calgaryHostApp",
-      "LYTQ3DGC2U.com.example.uni_link_ios",
-      "LYTQ3DGC2U.com.example.demoExFlutterLink"
-    ]
-  }
+   "applinks": {
+       "apps": [],
+       "details": [
+           {
+               "appID": "LYTQ3DGC2U.com.example.calgaryHostApp",
+               "paths": [ "/details/*" ]
+           }
+       ]
+   }
 }
