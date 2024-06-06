@@ -3,7 +3,7 @@
        "apps": [],
        "details": [
            {
-               "appID": "LYTQ3DGC2U.com.example.calgaryHostApp",
+               "appID": "LYTQ3DGC2U.com.bw.calgaryHostApp",
                "paths": [ "/details/*" ]
            }
        ]
