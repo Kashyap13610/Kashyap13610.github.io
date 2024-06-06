@@ -4,7 +4,7 @@
        "details": [
            {
                "appID": "LYTQ3DGC2U.com.bw.calgaryHostApp",
-               "paths": [ "/details/*" ]
+               "paths": [ "/details" ]
            }
        ]
    }
