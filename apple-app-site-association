@@ -4,12 +4,13 @@
        "details": [
            {
                "appID": "LYTQ3DGC2U.com.bw.calgaryHostApp",
-               "paths": [ "/details" ],
-"componenents": [
-                    {
-                        "/": "/*"
-                    }
-                ]
+               "components": [
+                   {
+                       "/": "/details/*",
+                       "?": { "id": "????????????????????????" },
+                       "comment": "Matches any URL whose path starts with /help/ and which has a query item with name 'details' and a value of exactly 24 characters"
+                   }
+               ]
            }
        ]
    }
